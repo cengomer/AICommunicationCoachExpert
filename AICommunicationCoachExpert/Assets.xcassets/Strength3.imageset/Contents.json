@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "industrial-design-abstract-concept-vector-illustration-product-usability-design-ergonomics-development-concept-function-appearance-engineering-improve-mass-production-abstract-metaphor_335657-2879.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
